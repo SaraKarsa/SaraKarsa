@@ -3,7 +3,7 @@
 - 🌱  I’m currently learning Artificial Intelligence
 -     Softwares 💞️ i am working on Python (Jupyter Notebook), SQL, Tableau
 - 📫 How to reach me snowysaranya@gmail.com
-
+"Data-Driven Transition: Banking Professional Pursuing Data Analyst | Tableau SQL Python R Leveraging a Decade of Industry Expertise with Data Analytics Skills"
   
 
 <!---
